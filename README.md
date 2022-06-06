@@ -1,4 +1,5 @@
 # Dummy Project
+Dummy Text
 A dummy project repository to practice using [hub](https://hub.github.com/) command line tool.
 
 ### Introduction 
@@ -18,3 +19,5 @@ To get started with your first *PR*:
 Name    |   Github Username |   Comments and Remarks
 ----    |   --------------- |   --------------------
 WessCoby    |   @wesscoby   |   I am currently learning about contributing via pull requests, branching, merging, issues that can arrise from pull requests and how to handle them, and also learning how to use the `hub` command line tool
+
+
